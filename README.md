@@ -1,1 +1,1 @@
-# Oasis_1
+# Oasis_1 Developed Number guessing game application where user will enter any number and system will guess it. if number entered and random number generated  matches then score will be increased and displayed to the user .there are 3 chances user have to get a match for single number after that it will display you lost !
